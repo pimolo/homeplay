@@ -11,6 +11,9 @@ Well, you'll really need :
 - And an another with a web browser. Even Internet Explorer. 8. Uh. No.
 - A random hand.
 
+## CONTRIBUTING
+We'll use Git Flow. So if you want to make a change, please fork homeplay, create a feature/* branch from develop, and ask your pull request from it :)
+
 ## LICENCE
 MIT :) So you can chew it, drink it, bite it, love it, or throw it away, as long as you want, but with love and respect. Please.
 
